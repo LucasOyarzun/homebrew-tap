@@ -8,8 +8,8 @@
 # In this copy the version and sha256 are placeholders; the copy in the tap has
 # the real ones stamped in.
 cask "bongo-token-cat" do
-  version "0.1.0"
-  sha256 "0dbeb1bdc33b3ff1203c7a5398490020899e34f5e2a77ac444a3e296a60c3e08"
+  version "0.2.0"
+  sha256 "e5a0c8bdaab895bf0a91000569158043aeba19c2b2d8e24fd8175d7c3b8c0b91"
 
   url "https://github.com/LucasOyarzun/BongoTokenCat/releases/download/v#{version}/BongoTokenCat.zip"
   name "BongoTokenCat"
